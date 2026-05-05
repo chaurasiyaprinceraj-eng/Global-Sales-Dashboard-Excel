@@ -68,7 +68,7 @@ The goal is to uncover key trends in **sales, profit, customer behavior, and mar
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Global Superstore Dashboard 2011-2014.png)
+![Dashboard Preview]([Global Superstore Dashboard 2011-2014.png](https://github.com/chaurasiyaprinceraj-eng/Global-Sales-Dashboard-Excel/blob/main/Global%20Superstore%20Dashboard%202011-2014.png))
 
 ---
 
